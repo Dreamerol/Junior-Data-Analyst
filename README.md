@@ -40,106 +40,6 @@
 
 ---
 
-## 📝 SUMMARY
-
-Software Engineering student at Sofia University (FMI) with a strong foundation in algorithms, problem-solving, 
-and analytical thinking, developed at Sofia Mathematical High School (SMG).
-
-Hands-on experience in designing and developing backend systems, data pipelines, and API-driven applications 
-using Python, Java, and Clojure, strengthened through professional experience as a Junior Software Developer (Intern) at ZigiWave.
-
-Proven ability to build scalable and modular solutions, integrate REST APIs, and apply machine learning models 
-(including neural networks and predictive analytics) to real-world problems.
-
-Highly motivated to contribute to end-to-end software development, with strong interest in microservices 
-architecture, cloud technologies, and enterprise-grade systems.
-
----
-
-## 💼 PROFESSIONAL EXPERIENCE
-
-**Software Development Intern — ZigiWave, Sofia | Sep 2025 – Feb 2026**  
-- Engineered backend systems & data pipelines using Python, Java, and Clojure  
-- Designed & implemented REST APIs for distributed systems  
-- Developed scalable, modular components following clean architecture  
-- Contributed to data processing workflows, improving efficiency  
-- Participated in Agile development cycles, code reviews, and Git workflows  
-
-**📝 Hands-On Training at ZigiWave**  
-- Practical coding experience in Java, Clojure, and API Systems  
-- Developed mini-projects simulating real-world enterprise applications  
-- GitHub Repo: https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM  
-
-𝗧𝗲𝗮𝗺: 𝗖𝗼𝗿𝗲 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 & 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀  
-Foundational team responsible for the platform’s algorithmic and functional core, focusing on high-performance data transfer, transformation, and synchronization between independent systems.
-
-𝗝𝘂𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 (𝗜𝗻𝘁𝗲𝗿𝗻) - 𝗝𝗮𝘃𝗮, 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 & 𝗔𝗣𝗜𝘀  
-𝗝𝗮𝘃𝗮, 𝗖𝗹𝗼𝗷𝘂𝗿𝗲/𝗖𝗹𝗼𝗷𝘂𝗿𝗲𝗦𝗰𝗿𝗶𝗽𝘁 | 𝗔𝗣𝗜 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀 | 𝗖𝗼𝗿𝗲 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 & 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀
-
----
-
-## 🛠️ SELECTED PROJECTS
-
-### 🧠 NEURAL NETWORKS  
-https://github.com/Dreamerol/NEURAL-NETWORKS  
-- Designed, trained & evaluated neural networks (~90%+ accuracy)  
-- Implemented Backpropagation & Gradient Descent  
-- Applied ML to dynamic system modeling  
-
-### 💰 PROFIT PREDICTOR ML  
-https://github.com/Dreamerol/PROFIT-PREDICTOR-ML  
-- Built end-to-end ML pipeline for forecasting  
-- Performed EDA, feature engineering, preprocessing  
-- Implemented regression & time series models  
-
-### 💊 PLACEBO EFFECT ML DATA ANALYSIS  
-https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS  
-- Statistical analysis on 5,000+ records  
-- Hypothesis testing (p < 0.05)  
-- Data visualization & preprocessing  
-
-### 📦 DELIVERY DATA SQL SYSTEM  
-https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM  
-- Designed relational schema  
-- Optimized queries (~30% improvement)  
-- Built KPI tracking system  
-
----
-
-## 💻 KEY SKILLS
-
-**Machine Learning & AI:** Neural Networks, Regression, Classification, Feature Engineering  
-**Backend:** Java, Python, REST APIs, Microservices (Concepts)  
-**Frontend:** JavaScript, HTML, CSS  
-**Functional Programming:** Clojure, ClojureScript  
-**Databases:** SQL, Data Modeling, Query Optimization  
-**Tools:** Git, Jupyter, VS Code, Agile, OOP, Clean Code  
-
----
-
-## 📚 EDUCATION
-
-**Sofia University (FMI)** — Software Engineering  
-Oct 2024 – Present  
-
-**Sofia Mathematical High School (SMG)**  
-2019 – 2024 | GPA: 5.99 / 6.00  
-
----
-
-## 🏅 CERTIFICATIONS
-
-- Data Science — SoftUni  
-- Mathematical Concepts — SoftUni  
-- Python (Full Track) — SoftUni  
-
----
-
-## 🏆 AWARDS
-
-- Laureate — FMI Mathematical Competition  
-- Participant — National Olympiads  
-
 
 ---
 
@@ -158,7 +58,7 @@ Highly motivated to contribute to end-to-end software development, with strong i
 architecture, cloud technologies, and enterprise-grade systems.
  
 
-</p>
+
 
 ---
 
