@@ -7,6 +7,12 @@
   
 </div>
 
+<p align="center">
+  <a href="https://github.com/Dreamerol/Junior-Data-Analyst/blob/main/README.md">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+</p>
+
 
 <div align="center">
   
