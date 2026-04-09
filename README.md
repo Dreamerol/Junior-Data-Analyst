@@ -91,13 +91,13 @@ architecture, cloud technologies, and enterprise-grade systems.
 ## 💼 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
 
 
-🐙 **𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘, 𝗦𝗢𝗙𝗜𝗔 | 𝗦𝗘𝗣 2025 – 𝗙𝗘𝗕 2026**
-- Engineered backend systems & data pipelines using Python, Java, and Clojure.  
-- Designed & implemented **REST APIs** for distributed systems 🔗.  
-- Developed scalable, modular components following **Clean Architecture 🧱**.  
-- Contributed to data processing workflows, improving **efficiency ⚡**.  
-- Participated in **Agile development cycles 🏃‍♀️**, code reviews, and version control (**Git 🐙**).
+# 🐙 𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘, 𝗦𝗢𝗙𝗜𝗔 | 𝗦𝗘𝗣 2025 – 𝗙𝗘𝗕 2026
 
+- Engineered backend systems & data pipelines using **𝗣𝗬𝗧𝗛𝗢𝗡**, **𝗝𝗔𝗩𝗔**, and **𝗖𝗟𝗢𝗝𝗨𝗥𝗘**  
+- Designed & implemented **𝗥𝗘𝗦𝗧 𝗔𝗣𝗜𝗦 🔗** for distributed systems  
+- Developed scalable, modular components following **𝗖𝗟𝗘𝗔𝗡 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗧𝗨𝗥𝗘 🧱**  
+- Contributed to data processing workflows, improving **efficiency ⚡**  
+- Participated in **𝗔𝗚𝗜𝗟𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧 𝗖𝗬𝗖𝗟𝗘𝗦 🏃‍♀️**, **𝗖𝗢𝗗𝗘 𝗥𝗘𝗩𝗜𝗘𝗪𝗦 🔍**, and **𝗩𝗘𝗥𝗦𝗜𝗢𝗡 𝗖𝗢𝗡𝗧𝗥𝗢𝗟 (𝗚𝗜𝗧 🐙)**
 
 ---
 
