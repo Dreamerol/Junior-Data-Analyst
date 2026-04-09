@@ -90,7 +90,7 @@ architecture, cloud technologies, and enterprise-grade systems.
 
 ## 💼 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
 
-🐙 **𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) 🐙 — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘, 𝗦𝗢𝗙𝗜𝗔 | 𝗦𝗘𝗣 2025 – 𝗙𝗘𝗕 2026**
+🐙 **𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘, 𝗦𝗢𝗙𝗜𝗔 | 𝗦𝗘𝗣 2025 – 𝗙𝗘𝗕 2026**
 - Engineered backend systems & data pipelines using Python, Java, and Clojure.  
 - Designed & implemented **REST APIs** for distributed systems 🔗.  
 - Developed scalable, modular components following **Clean Architecture 🧱**.  
@@ -104,7 +104,7 @@ architecture, cloud technologies, and enterprise-grade systems.
 
 </div>
 
-###⚡ 𝗥𝗢𝗟𝗘 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
+### ⚡ 𝗥𝗢𝗟𝗘 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
 𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡)  
 𝗙𝗢𝗖𝗨𝗦: 𝗝𝗔𝗩𝗔, 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦  
