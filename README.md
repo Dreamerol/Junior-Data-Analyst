@@ -7,7 +7,6 @@
   
 </div>
 
----
 
 <div align="center">
   
@@ -19,16 +18,6 @@
   <span style="display:block; font-size:1.2em; font-weight:bold;">🐙 <a href="https://github.com/Dreamerol">GitHub</a></span>
 </div>
 
-
----
-  
-# <span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.2em;">Junior Data Analyst & Software Engineer</span>
-<span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.5em;">📍 Sofia, Bulgaria</span>
-<span style="display:block; font-size:1.2em; font-weight:bold;">📞 +359 89 764 3552</span>
-<span style="display:block; font-size:1.2em; font-weight:bold;">✉️ michaelakoseva@gmail.com</span>
-<span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.5em;">🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">LinkedIn</a></span>
-<span style="display:block; font-size:1.2em; font-weight:bold;">🐙 <a href="https://github.com/Dreamerol">GitHub</a></span>
-</p>
 
 ---
 
