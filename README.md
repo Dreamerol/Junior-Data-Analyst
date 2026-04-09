@@ -109,7 +109,7 @@ architecture, cloud technologies, and enterprise-grade systems.
 💻 𝗝𝘂𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 (𝗜𝗻𝘁𝗲𝗿𝗻) - 𝗝𝗮𝘃𝗮, 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 & 𝗔𝗣𝗜𝘀 | 𝗝𝗮𝘃𝗮, 𝗖𝗹𝗼𝗷𝘂𝗿𝗲/𝗖𝗹𝗼𝗷𝘂𝗿𝗲𝗦𝗰𝗿𝗶𝗽𝘁 | 𝗔𝗣𝗜 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀 | 𝗖𝗼𝗿𝗲 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 & 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀
 </span>
 
-
+---
 
 <span style="font-weight:bold; display:block; margin-top:1em;">
 𝗧𝗘𝗔𝗠: 𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦
