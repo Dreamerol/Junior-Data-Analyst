@@ -100,8 +100,7 @@ architecture, cloud technologies, and enterprise-grade systems.
 **📝 𝗛𝗔𝗡𝗗𝗦-𝗢𝗡 𝗧𝗥𝗔𝗜𝗡𝗜𝗡𝗚 𝗔𝗧 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘**  
 - Practical coding experience in **Java ☕**, **Clojure ⚡**, and **API Systems 🔗**.  
 - Developed mini-projects and exercises simulating real-world enterprise applications.  
-- GitHub Repo:  
-  👉 [𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘 𝗔𝗣𝗜 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
+- GitHub Repo:  👉 [𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘 𝗔𝗣𝗜 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
 </div>
 
