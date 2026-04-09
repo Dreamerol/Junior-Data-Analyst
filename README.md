@@ -12,16 +12,31 @@
   
  # <span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.2em;">Junior Data Analyst & Software Engineer</span> </span>
  
-  <span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.5em;">📍 Sofia, Bulgaria</span>
-  <span style="display:block; font-size:1.2em; font-weight:bold;">📞 +359 89 764 3552</span>
-  <span style="display:block; font-size:1.2em; font-weight:bold;">✉️ michaelakoseva@gmail.com</span>
- <span style="display:block; font-size:1.2em; font-weight:bold;">
-🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">LinkedIn</a> |
-🐙 <a href="https://github.com/Dreamerol">GitHub</a> |
+---
 
-</span>
 
-</div> 
+<div align="center">
+  
+  <span style="display:block; font-size:2.5em; margin-top:0.5em;">
+    📍 𝗦𝗢𝗙𝗜𝗔, 𝗕𝗨𝗟𝗚𝗔𝗥𝗜𝗔
+  </span>
+
+  <span style="display:block; font-size:2.5em;">
+    📞 +𝟯𝟱𝟵 𝟴𝟵 𝟳𝟲𝟰 𝟯𝟱𝟱𝟮
+  </span>
+
+  <span style="display:block; font-size:2.5em;">
+    ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
+  </span>
+
+  <span style="display:block; font-size:2.5em;">
+    🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
+    🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> |
+    📄 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a>
+  </span>
+
+</div>
+
 
 ---
 
