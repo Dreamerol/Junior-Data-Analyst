@@ -293,8 +293,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 - Personal developer portfolio showcasing projects, skills & achievements.  
 - Fully responsive UI with modern UI/UX design principles.  
 - Central hub linking all repositories and professional profiles.
-- 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 – this section contains 𝗰𝗹𝗶𝗰𝗸𝗮𝗯𝗹𝗲 𝗯𝗮𝗱𝗴𝗲𝘀 that open the corresponding GitHub repositories,
-  allowing quick access to each project. 
+- 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 – this section contains 𝗰𝗹𝗶𝗰𝗸𝗮𝗯𝗹𝗲 𝗯𝗮𝗱𝗴𝗲𝘀 linking repositories.
 
 ---
 
