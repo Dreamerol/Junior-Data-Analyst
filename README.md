@@ -29,6 +29,11 @@
      
 ---
 
+<div align="center">
+
+# 🟢 PROJECTS
+
+</div>
 
 
 <p align="center">
