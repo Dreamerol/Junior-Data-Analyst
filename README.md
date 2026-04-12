@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 
 <div align="center">
 
