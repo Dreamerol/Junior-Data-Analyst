@@ -6,7 +6,7 @@
 # <p align="center"><b>𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</b></p>
 
 
-<h2 align="center"> <strong><em>Junior Software Engineer & ML Engineer | Data Analyst | Python • Java • C++ • Clojure • SQL | Algorithms & Data Structures | Machine Learning & APIs</em></strong> </h2>
+<h2 align="center"> <strong><em>Software Engineer & ML Engineer | Data Analyst | Python • Java • C++ • Clojure • SQL | Algorithms & Data Structures | Machine Learning & APIs</em></strong> </h2>
 
 </div>
 
