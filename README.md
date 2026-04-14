@@ -3,7 +3,7 @@
 
 
 
-# <p align="center"><b>🟢 RESUME 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</b></p>
+# <p align="center"><b>🟢 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</b></p>
 
 
 </div>
