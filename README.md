@@ -6,14 +6,23 @@
 # <p align="center"><b>💻 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</b></p>
 
 
-</div>
+---
+
+<h3 align="center">
+✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨
+</h3>
+
+<h2 align="center">
+𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚
+</h2>
+
+<h3 align="center" style="font-size:20px;">
+Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure • SQL
+</h3>
 
 
-<h3 align="center"><em>✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨</em></h3>
 
-<strong><em><h3 align="center"> <strong><em>Data Analyst | Software Engineer | Algorithms & Data Structures | Applied Machine Learning & APIs | Python • C++ • Java • Clojure • SQL</em></strong> </h3></em></strong> 
-
-</div>
+---
 
 
 
