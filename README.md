@@ -8,26 +8,6 @@
 
 ---
 
-<h3 align="center">
-✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨
-</h3>
-
-<h2 align="center">
-𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚
-</h2>
-
-<h3 align="center" style="font-size:20px;">
-Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure • SQL
-</h3>
-
-
-
----
-
-
-
----
-
 <div align="center">
 
   <span style="display:block; font-size:2.5em; margin-top:0.5em;">
@@ -50,13 +30,45 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 
 </div>
 
-   
-  </span>
+ 
+---
 
-</div>
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+</p>
 
 
 ---
+
+<h3 align="center">
+✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨
+</h3>
+
+<h2 align="center">
+𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚
+</h2>
+
+<h3 align="center" style="font-size:20px;">
+Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure • SQL
+</h3>
+
+
+---
+
 
 
 <h3 align="center">
