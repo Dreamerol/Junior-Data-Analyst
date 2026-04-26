@@ -1,6 +1,6 @@
 
 
-![my-banner](Banner-SMALL.png)
+![](Banner-SMALL.png)
 
 ---
 
